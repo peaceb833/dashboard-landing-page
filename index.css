@@ -17,6 +17,10 @@ nav span{
     font-weight: 400;
     color: #FFFFFF;
 
+    
+}
+.dark-theme{
+    background: #000;
 }
 
 .small{
@@ -272,6 +276,7 @@ color: #1D1B1B;
 }
 .p2{
 font-family: Poppins;
+
 font-size: 14px;
 font-weight: 500;
 line-height: 30px;
@@ -293,3 +298,5 @@ color: #262467;
 
 
 }
+
+
